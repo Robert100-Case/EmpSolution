@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/EmpSolution/static/css/main.ba752216.chunk.css",
+    "main.js": "/EmpSolution/static/js/main.faa6c0a2.chunk.js",
+    "main.js.map": "/EmpSolution/static/js/main.faa6c0a2.chunk.js.map",
+    "runtime-main.js": "/EmpSolution/static/js/runtime-main.cde44526.js",
+    "runtime-main.js.map": "/EmpSolution/static/js/runtime-main.cde44526.js.map",
+    "static/css/2.d45d6843.chunk.css": "/EmpSolution/static/css/2.d45d6843.chunk.css",
+    "static/js/2.34da6df5.chunk.js": "/EmpSolution/static/js/2.34da6df5.chunk.js",
+    "static/js/2.34da6df5.chunk.js.map": "/EmpSolution/static/js/2.34da6df5.chunk.js.map",
+    "index.html": "/EmpSolution/index.html",
+    "static/css/2.d45d6843.chunk.css.map": "/EmpSolution/static/css/2.d45d6843.chunk.css.map",
+    "static/css/main.ba752216.chunk.css.map": "/EmpSolution/static/css/main.ba752216.chunk.css.map",
+    "static/js/2.34da6df5.chunk.js.LICENSE.txt": "/EmpSolution/static/js/2.34da6df5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cde44526.js",
+    "static/css/2.d45d6843.chunk.css",
+    "static/js/2.34da6df5.chunk.js",
+    "static/css/main.ba752216.chunk.css",
+    "static/js/main.faa6c0a2.chunk.js"
+  ]
+}
