@@ -11,7 +11,7 @@ MIT
 https://robert100-case.github.io/EmpSolution
 
 ## Pre Build Code
-https://github.com/Robert100-Case/EmployeeSolutionCode
+https://github.com/Robert100-Case/EmployeeDatabaseCode
 
 ## Screenshot
 <img src="screenshot.png">
