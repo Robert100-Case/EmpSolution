@@ -14,5 +14,5 @@ https://robert100-case.github.io/EmpSolution
 https://github.com/Robert100-Case/EmployeeDatabaseCode
 
 ## Screenshot
-<img src="screenshot.png">
+<img src="ED_Screenshot.png">
 
