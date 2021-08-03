@@ -8,11 +8,11 @@ Anyone with basic computer knowledge should be able to use this program. Program
 MIT
 
 ## Deployed App
-https://robert100-Case.github.io/EmpSolution
+https://robert100-case.github.io/EmpSolution
 
 ## Pre Build Code
 https://github.com/Robert100-Case/EmployeeSolutionCode
 
 ## Screenshot
-<img src="Screenshot.png">
+<img src="screenshot.png">
 
